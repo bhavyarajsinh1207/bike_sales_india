@@ -4,7 +4,8 @@
 This is a Power BI dashboard providing detailed insights into Indian bike sales. It includes data on sales by brand, fuel type, state, and other key factors.
 
 ## 📸 Screenshot
-![Indian Bike Sales Dashboard](./BIKE_SALES_DASHBOARD.jpg)
+![BIKE SALES DASHBOARD](https://github.com/user-attachments/assets/fafe9c55-dc4a-47bd-bbb9-e4713c57b672)
+
 
 ## 🚀 Features
 - **Price by Brand** – Shows the price distribution across different brands.
